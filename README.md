@@ -9,9 +9,8 @@ Expertise / Skill Sets
 ---------------------  
  ☛ Website speed Optimization
  ☛ Email Marketing & eCommerce Automation 
- ☛ WordPress & WooCommerce Expert
+ ☛ WordPress & e-Commerce Expert
 ☛ Shopify eCommerce & Dropshipping Expert 
  ☛ Click Funnel & Sales Funnel Expert 
-☛ Email Marketer, Mailchimp/ Get Response Email Platform Expert
 ☛ Devices Responsive Website Expert
 ☛ Figma To WordPress Convert & Website Clone, Migration & Security Solutions   Expert
